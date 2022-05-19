@@ -13,7 +13,7 @@ Will be always update!
 | Note about IPTables on Linux |  [Go](https://gist.github.com/gilangvperdana/16defd96c6f23a818fb893534c51cc74)|
 | Port Forwarding on Ubuntu with IP Tables |  [Go](https://gist.github.com/gilangvperdana/8fdcfd7136d73875ee839ab8fb9f3df1)|
 | DevStack with Magnum & Heat local.conf Template |  [Go](https://gist.github.com/gilangvperdana/e7e62733a945b6a2d05be08fc043c0d1)|
-| Expose Grafana with Nginx Reverse Proxy |  [Go](Expose Grafana with Nginx Reverse Proxy)|
+| Expose Grafana with Nginx Reverse Proxy |  [Go](https://gist.github.com/gilangvperdana/0ed3ea041fd2c9b0cfe497381ad1f167)|
 | Node Exporter + Prometheus + Grafana Provisioning |  [Go](https://gist.github.com/gilangvperdana/2cf862107058b99ee4966203f18fcde8)|
 | OpenStack Horizon over TLS |  [Go](https://gist.github.com/gilangvperdana/a035a0c2ab7ad259dc06afcd0f166cde)|
 | Speedtest & Check Public IP on Linux CLI |  [Go](https://gist.github.com/gilangvperdana/f68a9b9a79eb151bf83472e775a6fea5)|

@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Alerting Grafana with Picture |[Go](https://gist.github.com/gilangvperdana/859e4e80b9c1259c16fe98b55f34023d)|
 | Integrate Grafana with Promtail + Loki |[Go](https://gist.github.com/gilangvperdana/c4ee8cbf1a16aebbe53e071a02b70be5)|
 | Pritunl behind Nginx Reverse Proxy |[Go](https://gist.github.com/gilangvperdana/f73b9ab6c9f99e9e18735e142b77ef9f)|
 | Deploy OpenStack Xena MultiNode on Ubuntu 20.04LTS |  [Go](https://gist.github.com/gilangvperdana/01d08d26e8fc11202bf5edd18c679db2)|

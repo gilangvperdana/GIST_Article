@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Run Script to SystemD |[Go](https://gist.github.com/gilangvperdana/ea45401a05c3d15bcf56c792612c0f96)|
 | Automation Delete Index ELK with Curator |[Go](https://gist.github.com/gilangvperdana/8f1486f38aeaf1d3f7c5d7aa2c6994d2)|
 | Victoria Metrics Provisioning |[Go](https://gist.github.com/gilangvperdana/4d3fea3b2f924a550b1a47211b93f764)|
 | Alerting Grafana with Picture |[Go](https://gist.github.com/gilangvperdana/859e4e80b9c1259c16fe98b55f34023d)|

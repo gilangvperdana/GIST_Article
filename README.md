@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Automation Delete Index ELK with Curator |[Go](https://gist.github.com/gilangvperdana/8f1486f38aeaf1d3f7c5d7aa2c6994d2)|
 | Victoria Metrics Provisioning |[Go](https://gist.github.com/gilangvperdana/4d3fea3b2f924a550b1a47211b93f764)|
 | Alerting Grafana with Picture |[Go](https://gist.github.com/gilangvperdana/859e4e80b9c1259c16fe98b55f34023d)|
 | Integrate Grafana with Promtail + Loki |[Go](https://gist.github.com/gilangvperdana/c4ee8cbf1a16aebbe53e071a02b70be5)|

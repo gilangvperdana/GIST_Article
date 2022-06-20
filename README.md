@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Alert Linux when Boot & Shutdown |[Go](https://gist.github.com/gilangvperdana/727529165e7766fabcbcd72b0ab95e6b)|
 | Tuned you Linux System with TunedAdm |[Go](https://gist.github.com/gilangvperdana/ab9f07258096203291d11ee3661721f4)|
 | Run Script to SystemD |[Go](https://gist.github.com/gilangvperdana/ea45401a05c3d15bcf56c792612c0f96)|
 | Automation Delete Index ELK with Curator |[Go](https://gist.github.com/gilangvperdana/8f1486f38aeaf1d3f7c5d7aa2c6994d2)|

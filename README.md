@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Fix Immutable Linux Files | [Go](https://gist.github.com/gilangvperdana/79ae635af71ba14b0a1008ee7b90ed98) | 
 | Auto Restart Linux Systemd Service |[Go](https://gist.github.com/gilangvperdana/1748fecdcf1b15b7280e086d7d656be0)|
 | Auto Start Instance when Openstack Cluster Reboot |[Go](https://gist.github.com/gilangvperdana/ae21791a71e9017626bdd289a81d8700)|
 | Alert Linux when Boot & Shutdown |[Go](https://gist.github.com/gilangvperdana/727529165e7766fabcbcd72b0ab95e6b)|

@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Bypass Django CSRF behind Nginx Reverse Proxy | [Go](https://gist.github.com/gilangvperdana/0030b8068de5e0851ae348a4042eea19) |
 | Defectdojo Disable CSRF Login | [Go](https://gist.github.com/gilangvperdana/5709c523b24a18bf574f4bb09f8d20ce) |
 | Fix Immutable Linux Files | [Go](https://gist.github.com/gilangvperdana/79ae635af71ba14b0a1008ee7b90ed98) | 
 | Auto Restart Linux Systemd Service |[Go](https://gist.github.com/gilangvperdana/1748fecdcf1b15b7280e086d7d656be0)|

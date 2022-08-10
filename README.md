@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Kolla Horizon Change Logo | [Go](https://gist.github.com/gilangvperdana/3d17a438fe7aea56bddb262c36c0991a) |
 | Monitoring Certificate Expire with Prometheus, Grafana, NodeCertExporter | [Go](https://gist.github.com/gilangvperdana/5e901161c9a23778489e3ecd7d36fbe7) |
 | Bypass Django CSRF behind Nginx Reverse Proxy | [Go](https://gist.github.com/gilangvperdana/0030b8068de5e0851ae348a4042eea19) |
 | Defectdojo Disable CSRF Login | [Go](https://gist.github.com/gilangvperdana/5709c523b24a18bf574f4bb09f8d20ce) |

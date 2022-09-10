@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Remote Mikrotik from OpenVPN Client with Pritunl VPN Server | [Go](https://gist.github.com/gilangvperdana/a0017ef95e7e71a83853d9b97c20144e) |
 | Remote Ubuntu Desktop with TightVNC | [Go](https://gist.github.com/gilangvperdana/8fd328d2c56978ac028067c12bbf34d5) |
 | Auto Prune Unused Image Kubernetes with Docker Runtime | [Go](https://gist.github.com/gilangvperdana/7b37ef06a11fa4408bce6ee574f00c3c) |
 | Customize Linux ISO & Test Bootable | [Go](https://gist.github.com/gilangvperdana/3b52ffdd14814870beb88ed34767d4d5) |

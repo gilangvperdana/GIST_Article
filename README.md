@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Setting IPMI with IPMITOOL | [Go](https://gist.github.com/gilangvperdana/e97b9c605ad90f82a6efd505fe9d6c41) |
 | Monitor our Server with Blackbox Exporter | [Go](https://gist.github.com/gilangvperdana/5c5490c9ed6f434f4eb4a192486d00af) |
 | Teleport behind Nginx Reverse Proxy | [Go](https://gist.github.com/gilangvperdana/a8692e0cab0e1e6d6a8efca030e4a7c6) |
 | Automaticly delete image dangling on Docker Image | [Go](https://gist.github.com/gilangvperdana/6deb457f996ad9e8b4e17f88080dca0e) |

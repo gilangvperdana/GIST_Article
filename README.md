@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Increase Nova Compute Timeout | [Go](https://gist.github.com/gilangvperdana/cf168f0fb90b299ba73144d1b006203a) |
 | SMTP Client on our Ubuntu Server | [Go](https://gist.github.com/gilangvperdana/99bd5db021647158370a703f3086831d) |
 | Alert when Network Floating on Openstack is Unreachable | [Go](https://gist.github.com/gilangvperdana/3f2479bbd72464891b0ae96a2481e7dd) |
 | Convert ISO to QCOW2 | [Go](https://gist.github.com/gilangvperdana/98382539fc9a48579dcfd70e3fa117d4) |

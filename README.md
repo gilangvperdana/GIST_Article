@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| GPU Passtrough Openstack | [Go](https://gist.github.com/gilangvperdana/1a26f05e6700479f026239322adda7ad) |
 | Nginx Parameter | [Go](https://gist.github.com/gilangvperdana/6b0b57aa3d7fac58d102136eebf848a0) |
 | Create DNS Server with Bind9 on Ubuntu Server | [Go](https://gist.github.com/gilangvperdana/24081968f6bce720e52ff8e0acc0a433) |
 | Kolla Ansible Upgrade Openstack Cluster | [Go](https://gist.github.com/gilangvperdana/d407bb8d6c26f3848dcbcde9b45630eb) |

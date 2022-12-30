@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Minio with S3CMD | [Go](https://gist.github.com/gilangvperdana/48a20a851ffd484ebd67c7dfb4b2ae74) |
 | GPU Passtrough Openstack | [Go](https://gist.github.com/gilangvperdana/1a26f05e6700479f026239322adda7ad) |
 | Nginx Parameter | [Go](https://gist.github.com/gilangvperdana/6b0b57aa3d7fac58d102136eebf848a0) |
 | Create DNS Server with Bind9 on Ubuntu Server | [Go](https://gist.github.com/gilangvperdana/24081968f6bce720e52ff8e0acc0a433) |

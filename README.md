@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Psono.pw Self Hosted | [Go](https://gist.github.com/gilangvperdana/81eaaea6b2731c0adbe51ef1dc2bfc46) |
 | Nextcloud on Ubuntu 20.04LTS with Docker [ScratchEdition] | [Go](https://gist.github.com/gilangvperdana/cc7c92c167e4d4fa4db4fffbf76a8bb6) |
 | Minio with S3CMD | [Go](https://gist.github.com/gilangvperdana/48a20a851ffd484ebd67c7dfb4b2ae74) |
 | GPU Passtrough Openstack | [Go](https://gist.github.com/gilangvperdana/1a26f05e6700479f026239322adda7ad) |

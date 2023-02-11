@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Searxng | [Go](https://gist.github.com/gilangvperdana/613473246bce3d861610f46505c2e36b) |
 | OAuth2Proxy | [Go](https://gist.github.com/gilangvperdana/ee3c009d67509dcbea58c19ce650cf9b) |
 | Alert Docker Container | [Go](https://gist.github.com/gilangvperdana/4a2fa0d5d0a9689dea561437b9abec6e) |
 | Cloudflare Tunnel | [Go](https://gist.github.com/gilangvperdana/eedaf88b938d23f97f066d6e656fac39) |

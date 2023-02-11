@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| OAuth2Proxy | [Go](https://gist.github.com/gilangvperdana/ee3c009d67509dcbea58c19ce650cf9b) |
 | Alert Docker Container | [Go](https://gist.github.com/gilangvperdana/4a2fa0d5d0a9689dea561437b9abec6e) |
 | Cloudflare Tunnel | [Go](https://gist.github.com/gilangvperdana/eedaf88b938d23f97f066d6e656fac39) |
 | MongoDB | [Go](https://gist.github.com/gilangvperdana/844b28c877783e9397ae63bbae905f35) |

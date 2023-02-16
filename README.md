@@ -3,7 +3,8 @@ Will be always update!
 
 |Title| Link|
 |--|--|
-| Mikrotik VLAN Trunking with VLAN Bridge (Scratch Edition) | [Go](https://gist.github.com/gilangvperdana/e25f2feeedc6e131d100cfd8c6fdbc7c) |
+| Multiple VLAN with Multiple Gateway on Ubuntu Server | [Go](https://gist.github.com/gilangvperdana/ce7de8b062438f963a25ec8c98038f97) |
+| VLAN Trunking with VLAN Bridge on Mikrotik | [Go](https://gist.github.com/gilangvperdana/e25f2feeedc6e131d100cfd8c6fdbc7c) |
 | Searxng | [Go](https://gist.github.com/gilangvperdana/613473246bce3d861610f46505c2e36b) |
 | OAuth2Proxy | [Go](https://gist.github.com/gilangvperdana/ee3c009d67509dcbea58c19ce650cf9b) |
 | Alert Docker Container | [Go](https://gist.github.com/gilangvperdana/4a2fa0d5d0a9689dea561437b9abec6e) |

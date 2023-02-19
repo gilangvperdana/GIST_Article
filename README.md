@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Alert Internet Speed Periodicly with Speedtest CLI on Ubuntu Server | [Go](https://gist.github.com/gilangvperdana/4eb37653b18ea77d543a170c6c75b4b9) |
 | Screenshoot Grafana Dashboard with Chrome Headless | [Go](https://gist.github.com/gilangvperdana/6043de0807d9fa3b36969c7cda0adc14) |
 | Multiple VLAN with Multiple Gateway on Ubuntu Server | [Go](https://gist.github.com/gilangvperdana/ce7de8b062438f963a25ec8c98038f97) |
 | VLAN Trunking with VLAN Bridge on Mikrotik | [Go](https://gist.github.com/gilangvperdana/e25f2feeedc6e131d100cfd8c6fdbc7c) |

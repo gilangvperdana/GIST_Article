@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Kolla Ansible Automaticly Restart Agent Down | [Go](https://gist.github.com/gilangvperdana/a7903ac9de7343517c0f83fad561a1c8) |
 | Create BIND9 on Docker Container | [Go](https://gist.github.com/gilangvperdana/a3a7327c0019441fde3bdfa24aa9f7ea) |
 | Fix SSH Error : SSH2_MSG_KEX_ECDH_REPLY | [Go](https://gist.github.com/gilangvperdana/b6d62769af9bbc8fb9c0a77f09abfa8c) |
 | Script to check if our Interface IP change an IP address | [Go](https://gist.github.com/gilangvperdana/202e3e066cf50c2ef323110b1bed428a) |

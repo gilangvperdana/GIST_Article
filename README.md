@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Reset Ubuntu Root Password from Openstack Console (VNC) | [Go](https://gist.github.com/gilangvperdana/77ad1d7a405aeeb472b2eacb8eebf2ef) |
 | Automaticly Enable Disable Swap Based on Utilization of RAM Usage on Linux | [Go](https://gist.github.com/gilangvperdana/ecac97b36bd0257dbc7f6691493130fb) |
 | Search Openstack Instance Identity | [Go](https://gist.github.com/gilangvperdana/bb12995b93ad9a6127adb00d1a743cf2) |
 | Openstack Alerting when any Instance Spwaned or Destroyed | [Go](https://gist.github.com/gilangvperdana/3d7ab1c2456ddcc3ade57ea1ab3a23f0) |

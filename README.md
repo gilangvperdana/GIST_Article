@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| VSCode Server on Ubuntu Installation | [Go](https://gist.github.com/gilangvperdana/02223746bb1582895ee368bc5c659284)
 | How to decrypt Base64 to Plaintext ? | [Go](https://gist.github.com/gilangvperdana/e7a7f60cd0e1add9b4b566ab64da51fa) |
 | How to configure static website using Nginx with MinIO | [Go](https://gist.github.com/gilangvperdana/f74a07a5da66303acb644c3aa2b3a221) |
 | Auto Backup File / Directory to S3 with S3CMD | [Go](https://gist.github.com/gilangvperdana/2ab234420c473c6eb3aefc48715578ba) |

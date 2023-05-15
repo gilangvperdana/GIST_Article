@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Notify New/Deleted DNS Record to Telegram on Cloudflare with Cloudflare API | [Go](https://gist.github.com/gilangvperdana/0f9ccb51ba61dcddb807654c5640faec) |
 | Cloudflare API Playground | [Go](https://gist.github.com/gilangvperdana/b36054903a6f8460a3d6793c3a2eebb5) |
 | Generate TLS Certificate on Ubuntu Server with OpenSSL | [Go](https://gist.github.com/gilangvperdana/13af8137c42022dc0ddb486fb04103bf) |
 | VSCode Server on Ubuntu Installation | [Go](https://gist.github.com/gilangvperdana/02223746bb1582895ee368bc5c659284)

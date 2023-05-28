@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Generate Wild Card TLS Certificate Cloudflare DNS Management | [Go](https://gist.github.com/gilangvperdana/d974fb40b8c7f05f5f345ba3a3d93bdc) |
 | Monitor an Endpoint on Telegram | [Go](https://gist.github.com/gilangvperdana/96e3f50017aee8a2d00b8231939a7778) |
 | Notify New/Deleted DNS Record to Telegram on Cloudflare with Cloudflare API | [Go](https://gist.github.com/gilangvperdana/0f9ccb51ba61dcddb807654c5640faec) |
 | Cloudflare API Playground | [Go](https://gist.github.com/gilangvperdana/b36054903a6f8460a3d6793c3a2eebb5) |

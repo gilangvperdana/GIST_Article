@@ -3,6 +3,7 @@ Will be always update!
 
 |Title| Link|
 |--|--|
+| Generate Certificate for Mikrotik | [Go](https://gist.github.com/gilangvperdana/231b59c2c9b17f2e97b058f16773051a) |
 | Force Reboot Ubuntu Server from CLI | [Go](https://gist.github.com/gilangvperdana/e50105b4ee675d88d5804f05d0a91894) |
 | Nginx Block Generator with Bash Script | [Go](https://gist.github.com/gilangvperdana/c7371802dc5e8d2273728b239ebe96e5) |
 | Generate Wild Card TLS Certificate Cloudflare DNS Management | [Go](https://gist.github.com/gilangvperdana/d974fb40b8c7f05f5f345ba3a3d93bdc) |

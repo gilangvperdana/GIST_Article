@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| PowerCLI VMWare Installation | [Go](https://gist.github.com/gilangvperdana/fdf4d6ad5c83b8d50e925dae117a4f66) |
 | Libvirt Client | [Go](https://gist.github.com/gilangvperdana/b36030688b747b42d5d04487a0f8fd0b) |
 | Mount NFS Directory on Windows Server 2019 | [Go](https://gist.github.com/gilangvperdana/8edd14319f7e0f82732d2554f1dcd278) |
 | Monitoring Docker Container | [Go](https://gist.github.com/gilangvperdana/f726b744829a7bfe7c618a47293505f1) |

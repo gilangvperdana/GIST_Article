@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| Auto DHCLIENT every VM Reboot | [Go](https://gist.github.com/gilangvperdana/dc4d37de26690968f53e44c188460cfc) |
 | VirtualBox Reference | [Go](https://supportportal.juniper.net/s/article/NFX-How-to-check-integrity-of-QCOW2-file-for-VNF?language=en_US) |
 | Virtualize your NVIDIA | [Go](https://gist.github.com/gilangvperdana/800154dedc01c678c10cd43225659790) |
 | PowerCLI VMWare Installation | [Go](https://gist.github.com/gilangvperdana/fdf4d6ad5c83b8d50e925dae117a4f66) |

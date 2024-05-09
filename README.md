@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| Port Forwarding with Windows Server | [Go](https://gist.github.com/gilangvperdana/7e05bb0f2737dc7ded96ac5e7fae6116) |
 | How to Reset Trial 120 days RDP in Windows Server 2019 | [Go](https://gist.github.com/gilangvperdana/ef5631472f45b7f0c8f6452d79f12f97) |
 | Search Online Package Linux | [Go](https://gist.github.com/gilangvperdana/e1d8699f918b82949f49f10002c0b077) |
 | Overwrite `/etc/resolv.conf` on Linux with Netplan Configuration | [Go](https://gist.github.com/gilangvperdana/14eb3dbfe88462812ded826ae51a833a) |

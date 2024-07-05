@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| Fix OpenSSH Denied with Pubkey on Windows Server | [Go](https://gist.github.com/gilangvperdana/2f888242a7aad32571b47a4598a037d4) |
 | Deploy Openstack Caracal Single Node on Ubuntu Jammy with Kolla Ansible | [Go](https://gist.github.com/gilangvperdana/82b35379eeccdad86c7e0b2143eba341) |
 | Test Port Lisen on Linux & Windows | [Go](https://gist.github.com/gilangvperdana/6e8b4e224c58f553dba370f9a06c4448) |
 | See Serial Number of Virtual Disk | [Go](https://gist.github.com/gilangvperdana/7c18852ab84cbcca6b8d56ffa71c2c5d) |

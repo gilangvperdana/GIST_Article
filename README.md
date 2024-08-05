@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| Ceph Playground | [Go](https://gist.github.com/gilangvperdana/e6371ebf4f6c5164707e41146c371834) |
 | Integrate Logging with Promtail & Loki | [Go](https://gist.github.com/gilangvperdana/e8154a294e5139268ab631dba6a7061a) |
 | Fix OpenSSH Denied with Pubkey on Windows Server | [Go](https://gist.github.com/gilangvperdana/2f888242a7aad32571b47a4598a037d4) |
 | Deploy Openstack Caracal Single Node on Ubuntu Jammy with Kolla Ansible | [Go](https://gist.github.com/gilangvperdana/82b35379eeccdad86c7e0b2143eba341) |

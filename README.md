@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| Openstack with Virt-Manager | [Go](https://gist.github.com/gilangvperdana/616daa017f132254e0113a140dcffbfc) |
 | Integrate AD with Keystone | [Go](https://gist.github.com/gilangvperdana/cc37ae663e23d1459629b8ef9de136d7) |
 | Integrate Cinder with TrueNAS iSCSI | [Go](https://gist.github.com/gilangvperdana/0206dd2ef372ccec00616a6899c2feee) |
 | Add Routing Private Network OpenVPN CLI | [Go](https://gist.github.com/gilangvperdana/98857ab52c6acb3c5b765cd402b1e930) |

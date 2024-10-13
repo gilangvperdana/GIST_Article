@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| VM Gateway on top of Openstack VM | [Go](https://gist.github.com/gilangvperdana/774250caa91811b23ebd382add3ee558) |
 | All About Squid Proxy | [Go](https://gist.github.com/gilangvperdana/c0f32b12b583b3f746b2abd951f1b629) |
 | Port Forwarding on Windows Server | [Go](https://gist.github.com/gilangvperdana/3133d9cf7fedba3f00a5c7731ad92b1b) |
 | Openstack with Virt-Manager | [Go](https://gist.github.com/gilangvperdana/616daa017f132254e0113a140dcffbfc) |

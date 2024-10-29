@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| VSCode SSH Install Offline on Ubuntu | [Go](https://gist.github.com/gilangvperdana/125c9996f6d3f54945a197e88990a4ff) |
 | VM Gateway on top of Openstack VM | [Go](https://gist.github.com/gilangvperdana/774250caa91811b23ebd382add3ee558) |
 | All About Squid Proxy | [Go](https://gist.github.com/gilangvperdana/c0f32b12b583b3f746b2abd951f1b629) |
 | Port Forwarding on Windows Server | [Go](https://gist.github.com/gilangvperdana/3133d9cf7fedba3f00a5c7731ad92b1b) |

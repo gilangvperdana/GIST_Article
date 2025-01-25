@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| Check LLDP on Linux | [Go](https://gist.github.com/gilangvperdana/5368791896aa68b778548f32131383ee) |
 | Check WWN FC HBA on Linux | [Go](https://gist.github.com/gilangvperdana/2134d25ef63bb86bce5b880b2704ec77) |
 | VSCode SSH Install Offline on Ubuntu | [Go](https://gist.github.com/gilangvperdana/125c9996f6d3f54945a197e88990a4ff) |
 | VM Gateway on top of Openstack VM | [Go](https://gist.github.com/gilangvperdana/774250caa91811b23ebd382add3ee558) |

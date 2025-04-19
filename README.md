@@ -4,6 +4,7 @@ Will be always update!
 |Title| Link|
 |--|--|
 | **PPT Presentation** | **[Go](https://github.com/gilangvperdana/Presentation.git)** |
+| Create Network on Openstack without Subnet & DHCP | [Go](https://gist.github.com/gilangvperdana/0a8739b6e3df91f30a77b24da39c4c71) |
 | Migrate from Openstack to VMware | [Go](https://gist.github.com/gilangvperdana/46f88b5f46bb250094069a92a7c888a9) |
 | Check LLDP on Linux | [Go](https://gist.github.com/gilangvperdana/5368791896aa68b778548f32131383ee) |
 | Check WWN FC HBA on Linux | [Go](https://gist.github.com/gilangvperdana/2134d25ef63bb86bce5b880b2704ec77) |
